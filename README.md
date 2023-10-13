@@ -46,7 +46,7 @@
   
   ## Github
   
-  https://github.com/ArsonistChoir)https://github.com/ArsonistChoir
+  https://github.com/ArsonistChoir
   
   ## License
   
